@@ -1,0 +1,14 @@
+{
+  "name": "day_4",
+  "version": "1.0.0",
+  "description": "",
+  "main": "problem_4.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "blueimp-md5": "^2.3.0"
+  }
+}
